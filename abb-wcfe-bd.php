@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Woo Checkout Field Editor (Bangladesh Ready)
  * Description: Toggle WooCommerce checkout fields (show/hide, required/optional) + Bangladesh District & Sub-district dependent dropdowns.
- * Version: 1.0.9
+ * Version: 1.1.0
  * Author: absoftlab
  * Author URI: https://absoftlab.com
  * Text Domain: abb-wcfe-bd
@@ -13,7 +13,7 @@
 
 if ( ! defined( 'ABSPATH' ) ) exit;
 
-define( 'ABB_WCFE_BD_VER', '1.0.9' );
+define( 'ABB_WCFE_BD_VER', '1.1.0' );
 define( 'ABB_WCFE_BD_FILE', __FILE__ );
 define( 'ABB_WCFE_BD_DIR', plugin_dir_path( __FILE__ ) );
 define( 'ABB_WCFE_BD_URL', plugin_dir_url( __FILE__ ) );

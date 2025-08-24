@@ -212,8 +212,8 @@
 }
 
 .segmented input:checked+span {
-    background: var(--primary);
-    color: #4b2c85;
+    color: white;
+    background-color: #4b2c85;
 }
 
 .switch {
