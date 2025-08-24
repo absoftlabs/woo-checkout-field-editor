@@ -1,0 +1,7 @@
+/* Minimal styling for checkout fields */
+.woocommerce .form-row select#billing_bd_district,
+.woocommerce .form-row select#billing_bd_subdistrict,
+.woocommerce .form-row select#shipping_bd_district,
+.woocommerce .form-row select#shipping_bd_subdistrict {
+    max-width: 100%;
+}
