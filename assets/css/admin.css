@@ -65,8 +65,8 @@
 }
 
 .abbwcfe-tab.is-active {
-    border-color: var(--primary);
-    color: var(--primary);
+    border-color: #4b2c85;
+    color: #4b2c85;
 }
 
 .abbwcfe-panel {
@@ -274,6 +274,7 @@
 }
 .abbwcfe-footer .button {
     background-color: #4b2c85;
+    border: #4b2c85;
     padding: 5px 40px;
 }
 
@@ -308,11 +309,11 @@
 
 .drag-handle:active {
     background: #eef6fd;
-    border-color: var(--primary);
-    color: var(--primary);
+    border-color: #4b2c85;
+    color: #4b2c85;
 }
 .abb-bn-logo{
-    height: 36px;
+    height: 30px;
     background-color: #4b2c85;
     padding: 8px 12px;
 }
