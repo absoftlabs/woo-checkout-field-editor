@@ -27,16 +27,19 @@
 .abbwcfe-header h1 {
     margin: 0;
     font-size: 20px;
+    color: white;
 }
 
 .abbwcfe-header h1 span {
     color: var(--muted);
     font-weight: 500;
+    color: #e5e7eb;
 }
 
 .abbwcfe-header .subtitle {
     margin: 4px 0 0;
     color: var(--muted);
+    color: white;
 }
 
 .abbwcfe-header .actions .button {
@@ -210,7 +213,7 @@
 
 .segmented input:checked+span {
     background: var(--primary);
-    color: #fff;
+    color: #4b2c85;
 }
 
 .switch {
@@ -250,7 +253,7 @@
 }
 
 .switch input:checked+.slider {
-    background: var(--primary);
+    background: #4b2c85;
 }
 
 .switch input:checked+.slider:before {
