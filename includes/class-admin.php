@@ -164,7 +164,7 @@ class Admin {
 					<h1>Woo Checkout Field Editor <span>(Bangladesh Ready)</span></h1>
 					<p class="subtitle">By <a href="https://absoftlab.com" target="_blank" rel="noopener">absoftlab</a></p>
 				</div>
-				<div class="actions"><a class="button button-secondary" href="<?php echo esc_url( add_query_arg( 'page', 'wc-status', admin_url( 'admin.php' ) ) ); ?>">Woo Status</a></div>
+				<div class="abb_logo_bg"><img class="abb-bn-logo" src="<?php echo esc_url( ABB_WCFE_BD_URL . 'assets/img/logo.png' ); ?>" alt="<?php esc_attr_e('Brand logo','buy-now-button-customizable'); ?>" /></div>
 			</header>
 
 			<?php if ( isset( $_GET['updated'] ) ) : ?>

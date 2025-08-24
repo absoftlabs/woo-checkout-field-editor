@@ -18,9 +18,10 @@
     justify-content: space-between;
     margin-bottom: 16px;
     padding: 16px 20px;
-    background: var(--surface);
+    background: #4b2c85;
     border: 1px solid var(--border);
     border-radius: var(--radius);
+    color: white;
 }
 
 .abbwcfe-header h1 {
@@ -264,10 +265,13 @@
 .abbwcfe-footer {
     position: sticky;
     bottom: 0;
-    background: #fff;
     margin-top: 16px;
     padding: 12px 0;
     border-top: 1px solid var(--border);
+}
+.abbwcfe-footer .button {
+    background-color: #4b2c85;
+    padding: 5px 40px;
 }
 
 /* Drag + Drop */
@@ -303,4 +307,9 @@
     background: #eef6fd;
     border-color: var(--primary);
     color: var(--primary);
+}
+.abb-bn-logo{
+    height: 36px;
+    background-color: #4b2c85;
+    padding: 8px 12px;
 }
