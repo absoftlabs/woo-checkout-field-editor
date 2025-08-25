@@ -1,9 +1,10 @@
-# Woo Checkout Field Editor (Bangladesh Ready)
+# Checkout Field Editor (Bangladesh Ready) for WooCommerce
 
-Modern, clean & flexible WooCommerce checkout field editor. Toggle, require, reorder, and size fields — with first-class support for **Bangladesh District & Sub-district** dropdowns.
+Modern, clean & flexible WooCommerce checkout field editor.  
+Toggle, require, reorder, and size fields — with first-class support for **Bangladesh District & Sub-district** dropdowns.
 
 > **Author:** [absoftlab](https://absoftlab.com)  
-> **Folder/Slug:** abb-wcfe-bd  
+> **Folder/Slug:** `abb-checkout-field-editor-bd`  
 > **License:** GPL-2.0-or-later
 
 ---
@@ -29,8 +30,8 @@ Modern, clean & flexible WooCommerce checkout field editor. Toggle, require, reo
 
 ## 📦 Installation
 
-1. Place in `wp-content/plugins/abb-wcfe-bd`
-2. Ensure the main plugin folder name is **abb-wcfe-bd**.
+1. Place in `wp-content/plugins/abb-checkout-field-editor-bd`
+2. Ensure the main plugin folder name is **abb-checkout-field-editor-bd**.
 3. Activate **Woo Checkout Field Editor (Bangladesh Ready)** from **Plugins** in wp-admin.
 4. Go to **WooCommerce → Field Editor (BD)**.
 

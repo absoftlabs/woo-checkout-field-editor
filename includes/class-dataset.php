@@ -24,7 +24,7 @@ class Dataset {
 	}
 
 	public static function get_districts_assoc(): array {
-		$out = [ '' => __( 'Select District', 'abb-wcfe-bd' ) ];
+		$out = [ '' => __( 'Select District', 'abb-checkout-field-editor-bd' ) ];
 		foreach ( self::get_districts() as $d ) $out[ $d ] = $d;
 		return $out;
 	}
